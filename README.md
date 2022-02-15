@@ -10,6 +10,7 @@ Baixe um zip ou clone o projeto, entre na pasta e crie um ambiente virtual:
 ```
 python -m venv .
 source bin/activate
+pip install -r requirements.txt
 ```
 # GraphQL é baseado em grafos
 
